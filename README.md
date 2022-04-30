@@ -1,2 +1,3 @@
 # GullCode2022
-Holds answers to Gull Code 2022 problems
+### Contributers: Zach Moore, Joe Fernandez, Will Jenkins
+Holds answers to Gull Code 2022 problems for team "Donald Glover Lovers"
